@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\QuanLyTrungTamTA\\QuanLy\\MVC_Core_Quan_Ly_Trung_Tam_TA\\MVC_Core_Quan_Ly_Trung_Tam_TA\\MVC_Core_Quan_Ly_Trung_Tam_TA.csproj": {}
+    "C:\\Users\\Admin\\Documents\\clon\\MVC_Core_Quan_Ly_Trung_Tam_TA\\MVC_Core_Quan_Ly_Trung_Tam_TA.csproj": {}
   },
   "projects": {
-    "E:\\QuanLyTrungTamTA\\QuanLy\\MVC_Core_Quan_Ly_Trung_Tam_TA\\MVC_Core_Quan_Ly_Trung_Tam_TA\\MVC_Core_Quan_Ly_Trung_Tam_TA.csproj": {
+    "C:\\Users\\Admin\\Documents\\clon\\MVC_Core_Quan_Ly_Trung_Tam_TA\\MVC_Core_Quan_Ly_Trung_Tam_TA.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\QuanLyTrungTamTA\\QuanLy\\MVC_Core_Quan_Ly_Trung_Tam_TA\\MVC_Core_Quan_Ly_Trung_Tam_TA\\MVC_Core_Quan_Ly_Trung_Tam_TA.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\Documents\\clon\\MVC_Core_Quan_Ly_Trung_Tam_TA\\MVC_Core_Quan_Ly_Trung_Tam_TA.csproj",
         "projectName": "MVC_Core_Quan_Ly_Trung_Tam_TA",
-        "projectPath": "E:\\QuanLyTrungTamTA\\QuanLy\\MVC_Core_Quan_Ly_Trung_Tam_TA\\MVC_Core_Quan_Ly_Trung_Tam_TA\\MVC_Core_Quan_Ly_Trung_Tam_TA.csproj",
+        "projectPath": "C:\\Users\\Admin\\Documents\\clon\\MVC_Core_Quan_Ly_Trung_Tam_TA\\MVC_Core_Quan_Ly_Trung_Tam_TA.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "E:\\QuanLyTrungTamTA\\QuanLy\\MVC_Core_Quan_Ly_Trung_Tam_TA\\MVC_Core_Quan_Ly_Trung_Tam_TA\\obj\\",
+        "outputPath": "C:\\Users\\Admin\\Documents\\clon\\MVC_Core_Quan_Ly_Trung_Tam_TA\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",

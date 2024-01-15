@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "98dFiRFIHsCm3Vl2k4w4Ovbr7CbIRAcjoiyKbZHQRGHF664AOpEkFalGiVqDY1tHkkFmkYPUTCTZt+5DmK60rA==",
+  "dgSpecHash": "OltIoj3Nmfv9PDsz2FBWR99WxunteiNCdSjWwqwRrzYEu2r0ssIUOMfWx+hUWbDK6lNSaCKKKgM0qMvRhUcjeA==",
   "success": true,
-  "projectFilePath": "E:\\QuanLyTrungTamTA\\QuanLy\\MVC_Core_Quan_Ly_Trung_Tam_TA\\MVC_Core_Quan_Ly_Trung_Tam_TA\\MVC_Core_Quan_Ly_Trung_Tam_TA.csproj",
+  "projectFilePath": "C:\\Users\\Admin\\Documents\\clon\\MVC_Core_Quan_Ly_Trung_Tam_TA\\MVC_Core_Quan_Ly_Trung_Tam_TA.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Admin\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
