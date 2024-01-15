@@ -15,6 +15,7 @@ namespace MVC_Core_Quan_Ly_Trung_Tam_TA.Controllers
 
         public IActionResult Index()
         {
+            TempData["data_Menu"] = "Hello Data";
             return View();
         }
 

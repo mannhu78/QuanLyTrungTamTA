@@ -9,47 +9,83 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = MVC_Core_Quan_Ly_Trung_Tam_TA
 build_property.RootNamespace = MVC_Core_Quan_Ly_Trung_Tam_TA
-build_property.ProjectDir = E:\QuanLyTrungTamTA\MVC_Core_Quan_Ly_Trung_Tam_TA\MVC_Core_Quan_Ly_Trung_Tam_TA\
+build_property.ProjectDir = E:\QuanLyTrungTamTA\QuanLy\MVC_Core_Quan_Ly_Trung_Tam_TA\MVC_Core_Quan_Ly_Trung_Tam_TA\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = E:\QuanLyTrungTamTA\MVC_Core_Quan_Ly_Trung_Tam_TA\MVC_Core_Quan_Ly_Trung_Tam_TA
+build_property.MSBuildProjectDirectory = E:\QuanLyTrungTamTA\QuanLy\MVC_Core_Quan_Ly_Trung_Tam_TA\MVC_Core_Quan_Ly_Trung_Tam_TA
 build_property._RazorSourceGeneratorDebug = 
 
-[E:/QuanLyTrungTamTA/MVC_Core_Quan_Ly_Trung_Tam_TA/MVC_Core_Quan_Ly_Trung_Tam_TA/Views/Home/Privacy.cshtml]
+[E:/QuanLyTrungTamTA/QuanLy/MVC_Core_Quan_Ly_Trung_Tam_TA/MVC_Core_Quan_Ly_Trung_Tam_TA/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/QuanLyTrungTamTA/MVC_Core_Quan_Ly_Trung_Tam_TA/MVC_Core_Quan_Ly_Trung_Tam_TA/Views/Shared/Error.cshtml]
+[E:/QuanLyTrungTamTA/QuanLy/MVC_Core_Quan_Ly_Trung_Tam_TA/MVC_Core_Quan_Ly_Trung_Tam_TA/Views/QLTTTA/_BaoCaoHocVien.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUUxUVFRBXF9CYW9DYW9Ib2NWaWVuLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/QuanLyTrungTamTA/QuanLy/MVC_Core_Quan_Ly_Trung_Tam_TA/MVC_Core_Quan_Ly_Trung_Tam_TA/Views/QLTTTA/_GhiDanh.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUUxUVFRBXF9HaGlEYW5oLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/QuanLyTrungTamTA/QuanLy/MVC_Core_Quan_Ly_Trung_Tam_TA/MVC_Core_Quan_Ly_Trung_Tam_TA/Views/QLTTTA/_GiangVien.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUUxUVFRBXF9HaWFuZ1ZpZW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/QuanLyTrungTamTA/QuanLy/MVC_Core_Quan_Ly_Trung_Tam_TA/MVC_Core_Quan_Ly_Trung_Tam_TA/Views/QLTTTA/_HocVien.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUUxUVFRBXF9Ib2NWaWVuLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/QuanLyTrungTamTA/QuanLy/MVC_Core_Quan_Ly_Trung_Tam_TA/MVC_Core_Quan_Ly_Trung_Tam_TA/Views/QLTTTA/_KhoaHoc.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUUxUVFRBXF9LaG9hSG9jLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/QuanLyTrungTamTA/QuanLy/MVC_Core_Quan_Ly_Trung_Tam_TA/MVC_Core_Quan_Ly_Trung_Tam_TA/Views/QLTTTA/_LopHoc.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUUxUVFRBXF9Mb3BIb2MuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/QuanLyTrungTamTA/QuanLy/MVC_Core_Quan_Ly_Trung_Tam_TA/MVC_Core_Quan_Ly_Trung_Tam_TA/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/QuanLyTrungTamTA/MVC_Core_Quan_Ly_Trung_Tam_TA/MVC_Core_Quan_Ly_Trung_Tam_TA/Views/Shared/FootPage.cshtml]
+[E:/QuanLyTrungTamTA/QuanLy/MVC_Core_Quan_Ly_Trung_Tam_TA/MVC_Core_Quan_Ly_Trung_Tam_TA/Views/Shared/FootPage.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEZvb3RQYWdlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/QuanLyTrungTamTA/MVC_Core_Quan_Ly_Trung_Tam_TA/MVC_Core_Quan_Ly_Trung_Tam_TA/Views/Shared/_HeadPage.cshtml]
+[E:/QuanLyTrungTamTA/QuanLy/MVC_Core_Quan_Ly_Trung_Tam_TA/MVC_Core_Quan_Ly_Trung_Tam_TA/Views/Shared/_DMGiangVien.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9ETUdpYW5nVmllbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/QuanLyTrungTamTA/QuanLy/MVC_Core_Quan_Ly_Trung_Tam_TA/MVC_Core_Quan_Ly_Trung_Tam_TA/Views/Shared/_HeadPage.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9IZWFkUGFnZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/QuanLyTrungTamTA/MVC_Core_Quan_Ly_Trung_Tam_TA/MVC_Core_Quan_Ly_Trung_Tam_TA/Views/Shared/_ValidationScriptsPartial.cshtml]
+[E:/QuanLyTrungTamTA/QuanLy/MVC_Core_Quan_Ly_Trung_Tam_TA/MVC_Core_Quan_Ly_Trung_Tam_TA/Views/Shared/_LayoutMaster.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRNYXN0ZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/QuanLyTrungTamTA/QuanLy/MVC_Core_Quan_Ly_Trung_Tam_TA/MVC_Core_Quan_Ly_Trung_Tam_TA/Views/Shared/_Menu.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9NZW51LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/QuanLyTrungTamTA/QuanLy/MVC_Core_Quan_Ly_Trung_Tam_TA/MVC_Core_Quan_Ly_Trung_Tam_TA/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/QuanLyTrungTamTA/MVC_Core_Quan_Ly_Trung_Tam_TA/MVC_Core_Quan_Ly_Trung_Tam_TA/Views/_ViewImports.cshtml]
+[E:/QuanLyTrungTamTA/QuanLy/MVC_Core_Quan_Ly_Trung_Tam_TA/MVC_Core_Quan_Ly_Trung_Tam_TA/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/QuanLyTrungTamTA/MVC_Core_Quan_Ly_Trung_Tam_TA/MVC_Core_Quan_Ly_Trung_Tam_TA/Views/_ViewStart.cshtml]
+[E:/QuanLyTrungTamTA/QuanLy/MVC_Core_Quan_Ly_Trung_Tam_TA/MVC_Core_Quan_Ly_Trung_Tam_TA/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/QuanLyTrungTamTA/MVC_Core_Quan_Ly_Trung_Tam_TA/MVC_Core_Quan_Ly_Trung_Tam_TA/Views/Home/Index.cshtml]
+[E:/QuanLyTrungTamTA/QuanLy/MVC_Core_Quan_Ly_Trung_Tam_TA/MVC_Core_Quan_Ly_Trung_Tam_TA/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = b-to725ek58m
 
-[E:/QuanLyTrungTamTA/MVC_Core_Quan_Ly_Trung_Tam_TA/MVC_Core_Quan_Ly_Trung_Tam_TA/Views/Shared/_Layout.cshtml]
+[E:/QuanLyTrungTamTA/QuanLy/MVC_Core_Quan_Ly_Trung_Tam_TA/MVC_Core_Quan_Ly_Trung_Tam_TA/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-jnuy32d8qa

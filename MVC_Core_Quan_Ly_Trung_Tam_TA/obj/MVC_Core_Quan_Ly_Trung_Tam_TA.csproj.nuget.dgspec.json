@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\QuanLyTrungTamTA\\MVC_Core_Quan_Ly_Trung_Tam_TA\\MVC_Core_Quan_Ly_Trung_Tam_TA\\MVC_Core_Quan_Ly_Trung_Tam_TA.csproj": {}
+    "E:\\QuanLyTrungTamTA\\QuanLy\\MVC_Core_Quan_Ly_Trung_Tam_TA\\MVC_Core_Quan_Ly_Trung_Tam_TA\\MVC_Core_Quan_Ly_Trung_Tam_TA.csproj": {}
   },
   "projects": {
-    "E:\\QuanLyTrungTamTA\\MVC_Core_Quan_Ly_Trung_Tam_TA\\MVC_Core_Quan_Ly_Trung_Tam_TA\\MVC_Core_Quan_Ly_Trung_Tam_TA.csproj": {
+    "E:\\QuanLyTrungTamTA\\QuanLy\\MVC_Core_Quan_Ly_Trung_Tam_TA\\MVC_Core_Quan_Ly_Trung_Tam_TA\\MVC_Core_Quan_Ly_Trung_Tam_TA.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\QuanLyTrungTamTA\\MVC_Core_Quan_Ly_Trung_Tam_TA\\MVC_Core_Quan_Ly_Trung_Tam_TA\\MVC_Core_Quan_Ly_Trung_Tam_TA.csproj",
+        "projectUniqueName": "E:\\QuanLyTrungTamTA\\QuanLy\\MVC_Core_Quan_Ly_Trung_Tam_TA\\MVC_Core_Quan_Ly_Trung_Tam_TA\\MVC_Core_Quan_Ly_Trung_Tam_TA.csproj",
         "projectName": "MVC_Core_Quan_Ly_Trung_Tam_TA",
-        "projectPath": "E:\\QuanLyTrungTamTA\\MVC_Core_Quan_Ly_Trung_Tam_TA\\MVC_Core_Quan_Ly_Trung_Tam_TA\\MVC_Core_Quan_Ly_Trung_Tam_TA.csproj",
+        "projectPath": "E:\\QuanLyTrungTamTA\\QuanLy\\MVC_Core_Quan_Ly_Trung_Tam_TA\\MVC_Core_Quan_Ly_Trung_Tam_TA\\MVC_Core_Quan_Ly_Trung_Tam_TA.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "E:\\QuanLyTrungTamTA\\MVC_Core_Quan_Ly_Trung_Tam_TA\\MVC_Core_Quan_Ly_Trung_Tam_TA\\obj\\",
+        "outputPath": "E:\\QuanLyTrungTamTA\\QuanLy\\MVC_Core_Quan_Ly_Trung_Tam_TA\\MVC_Core_Quan_Ly_Trung_Tam_TA\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -20,6 +20,9 @@
         "originalTargetFrameworks": [
           "net7.0"
         ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
@@ -35,6 +38,26 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.15, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[7.0.15, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.15, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

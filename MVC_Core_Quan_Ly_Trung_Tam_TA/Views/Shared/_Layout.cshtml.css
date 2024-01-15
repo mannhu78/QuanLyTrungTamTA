@@ -1,35 +1,7 @@
 ﻿/* Please see documentation at https://docs.microsoft.com/aspnet/core/client-side/bundling-and-minification
 for details on configuring this project to bundle and minify static web assets. */
 
-main {
-    height :50rem;
-}
-p.text-menu {
-    text-align :center;
-    width : 170px;
-    height : 40px;
-    margin-bottom: -40px;
-    background-color :lightslategray;
-    font-size:20px;
-    
-}
-.menu a:hover {
-    background : grey;
-}
-.menu {
-    width : 170px;
-    height :350px;
-    background-color :darkgray;
-}
-.nav {
-    display: flex;
-    flex-wrap: wrap;
-    padding-left: 0;
-    margin-bottom: 0;
-    list-style: none;
-    width : 170px;
-    margin-top :40px;
-}
+
 li.nav-item {
     margin-top : 15px;
 }
