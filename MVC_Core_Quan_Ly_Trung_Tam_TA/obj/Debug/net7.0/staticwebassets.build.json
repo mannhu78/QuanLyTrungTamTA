@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "QtGSHfb0HhVsSqozITAruSDwDs27Nd3WLklesoENVOA=",
+  "Hash": "lHN5JjUMiihGT/U0wTVa2avJAAm+8e5YAh1C/h3744I=",
   "Source": "MVC_Core_Quan_Ly_Trung_Tam_TA",
   "BasePath": "_content/MVC_Core_Quan_Ly_Trung_Tam_TA",
   "Mode": "Default",
@@ -53,6 +53,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\Admin\\Documents\\clon\\MVC_Core_Quan_Ly_Trung_Tam_TA\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\MVC_Core_Quan_Ly_Trung_Tam_TA.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\Admin\\Documents\\clon\\MVC_Core_Quan_Ly_Trung_Tam_TA\\wwwroot\\css\\Layout.css",
+      "SourceId": "MVC_Core_Quan_Ly_Trung_Tam_TA",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Admin\\Documents\\clon\\MVC_Core_Quan_Ly_Trung_Tam_TA\\wwwroot\\",
+      "BasePath": "_content/MVC_Core_Quan_Ly_Trung_Tam_TA",
+      "RelativePath": "css/Layout.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\Layout.css"
     },
     {
       "Identity": "C:\\Users\\Admin\\Documents\\clon\\MVC_Core_Quan_Ly_Trung_Tam_TA\\wwwroot\\css\\site.css",
