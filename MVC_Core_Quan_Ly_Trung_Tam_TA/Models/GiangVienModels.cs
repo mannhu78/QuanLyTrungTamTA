@@ -5,6 +5,7 @@ using System.ComponentModel.DataAnnotations;
 
 namespace MVC_Core_Quan_Ly_Trung_Tam_TA.Models
 {
+    [Table("GiangVien")]
     public class GiangVienModels
     {
         [Key, Column(Order = 0)]

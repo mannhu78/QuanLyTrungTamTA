@@ -5,6 +5,10 @@
       "PackagePath": "staticwebassets\\MVC_Core_Quan_Ly_Trung_Tam_TA.bundle.scp.css"
     },
     {
+      "Id": "C:\\Users\\Admin\\Documents\\clon\\MVC_Core_Quan_Ly_Trung_Tam_TA\\wwwroot\\css\\Layout.css",
+      "PackagePath": "staticwebassets\\css\\Layout.css"
+    },
+    {
       "Id": "C:\\Users\\Admin\\Documents\\clon\\MVC_Core_Quan_Ly_Trung_Tam_TA\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
